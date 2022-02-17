@@ -88,8 +88,41 @@
 - customer service outsourcing
 - CC representatives training
 
+- Customer Service and Support workflow
+      - General Inquiries 
+        - shopping-related information
+        - product specifications
+      - Ordering options
+        -   verifying customer data, methods of payment,delivery options
+      - Billing Queries
+        -  purchasing support
+        -  inquiries regarding the payment flow
+        -  guidance through the process.
+      -  Order Tracking
+        - track order status
+        - transfer of products from warehouses to customers
+        - address customer concerns
+      - Consumer Dissatisfaction
+        -  reviewing complaints
+        -  helping to fix issues to improve customer’s experience
+      -  Returns Processing
+        - returns processing
+        - minimizing negative impressions
+
 
 ### companies
-- https://www.gomage.com/
+- gomage
+- wiserband
+- 
+
+
+### industry group
+- ecommerce
+- IT
+- consumer product & services
+- manufacturing
+- non-profit
+- medical
+
 - 
 

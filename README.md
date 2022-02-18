@@ -110,13 +110,20 @@
         - minimizing negative impressions
 
 
-### companies
-- gomage
-- wiserband
-- 
+| industry  sector     	|    industry group                                 |            industry 	      |
+|----------------------	|-------------------------------------------------  |---------------------------	| 
+| IT                   	| software & services                               | IT Services,Software       	|
+|                     	|             	                                    |                         	  |
+|                     	|             	                                    |                         	  |
+|                	      | Technology Hardware & Equipment                   |           	| 
+|               	|  outdoors91.com    	|  	                                |
+|                  	|  B2C,dealers 	      | Auction,B2C                	|                          	
+|              	|             	|                         	|  
+
+### sector
 
 
-### industry group
+### 
 - ecommerce
 - IT
 - consumer product & services

@@ -89,7 +89,7 @@
 - CC representatives training
 
 - Customer Service and Support workflow
-      - General Inquiries 
+    - General Inquiries 
         - shopping-related information
         - product specifications
       - Ordering options

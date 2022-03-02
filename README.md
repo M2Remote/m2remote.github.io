@@ -196,6 +196,9 @@ Support Plan
 • Industry partner introductions
 
 
+[reference](https://www.wrike.com/project-management-guide/project-lifecycle/)
+
+
 
 
 

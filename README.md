@@ -195,6 +195,11 @@ Support Plan
 • Marketing plan?
 • Industry partner introductions
 
+### project management
+- Initiating: The goal for this phase is to define the project.
+- Planning: This phase includes developing a roadmap for everyone to follow.
+- Executing & Monitoring: In this stage, the project team is built and deliverables are created. Project managers will monitor and measure project performance to ensure it stays on track.
+- Closing: The project is completed, a post mortem is held, and the project is transferred to another team who will maintain it.
 
 [reference](https://www.wrike.com/project-management-guide/project-lifecycle/)
 

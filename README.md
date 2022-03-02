@@ -123,7 +123,7 @@
 ### sector
 
 
-### 
+### domains
 - ecommerce
 - IT
 - consumer product & services
@@ -131,5 +131,80 @@
 - non-profit
 - medical
 
-- 
+### Proposal
+– Partner Information
+  - History/Principals
+  - vision
+  - Desire Result
+    - Goal
+    - Objective
+      - Mission
+        - course of action
+        - strategy
+        - tactic
+  - Directive
+    - business policy
+    - business rules 
+  - Expertise
+  - Organisation Structure
+  - Business Process
+  - Business Rules
+  - Information Flows
+  - IT Systems
+  - Technical Infrastructure
+  - Technology Implmentation
+  - References app
+– Detailed Scope of Work
+  - Functionality List– Customer-Facing and Back Office
+– Price Quote
+  - Time and Materials – Hourly Rate
+  - Fixed Bid
+- Contract
+  - Intellectual Property
+  - Scope of Work
+– Design and Development Process
+– Time Lines/Milestones/
+
+
+### Kickoff Call
+ Requirements & Discovery
+– Use Cases/Process Flows
+– Design Spec
+• UX/UI Creation
+– Functional Spec
+• Order Processing
+• Shipping
+• Payment Processors
+• Hosting
+• Design and Functionality Spec Signoff
+
+
+
+
+• Purchase of Magento License
+• Development
+• Change Orders – Changes in Scope
+• Transparency!!
+• Testing/QA
+• Launch
+• Training
+
+
+Support Plan
+• Post Launch Bug fixes
+• Marketing plan?
+• Industry partner introductions
+
+
+
+
+
+. Initial Call – High Level
+2. Conference Call -Specifics
+3. Laundry List Generated
+4. Proposal Generated
+5. Contract Negotiations
+6. Discovery/Design/Specs
+7. Development
+8. Testing/Hosting/Launch
 

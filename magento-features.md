@@ -1,5 +1,6 @@
 ### Multi-brand solution [ref](https://business.adobe.com/in/products/magento/multibrand-solution.html)
->Manage all your brands and serve all customers — business and consumer — via digital channels, from one platform.
+
+> Manage all your brands and serve all customers — business and consumer — via digital channels, from one platform.
 
 
 
@@ -59,6 +60,16 @@ Support local currencies, payment method and languages with over 150 language pa
         Extended capabilities
         PCI compliance
         ERP integration
+        
+### Flexibility
+
+### integrations
+
+
+### Reporting & analytics
+
+### social Integration
+
 
 
 

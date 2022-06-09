@@ -64,4 +64,9 @@
 - Summaries of observations, concerns, and recommendations.
 
 
-
+#### performance audit
+- Test your site speed across different devices, OS, and browsers
+- Identify issues that cause a slow-down
+- Inspect third-party extensions and find the slowest ones
+- Estimate performance optimization timeline and budget
+- Get a project implementation roadmap

@@ -178,9 +178,38 @@ Are you using an ecommerce platform : shopify,woocommerce, custom other
 ```
 
 ```
+DIgital Marketing 
+
 customer insight || marketing Stretegies  || future of marketing || Tools
 customer journey || automation
 consumer trends  || 
+**Business stretegy** : how to define and track clear goals, segment audiences and analyse data to help improve your online marketing efforts. 
+**SEO**: Understand the differences between organic and paid search, learn how to develop the most effective SEO plan and optimise web pages so that users can find content easier.
+**SEM** :Google Ads, learn about the different research tools available, plus how to choose keywords and optimise campaigns for a better return
+**Locally || Reach Locally & help them & local marketing : All the strategies and tools you need to build an online store, sell effectively online and optimise the user experience.
+**Social Media**: how to identify the right social network sites, create great content users will love and measure your success. 
+**content Marketing** : how to grow brand awareness and get more conversions by creating and distributing high-value content to potential customers. 
+**Email Marketing**: how to track responses, create simple landing pages and use A/B testing. 
+**display advertising** : Get noticed online by identifying the right audiences, ad networks and strategies for your display ads. 
+Analytics & data insight** : how to collect and analyse user data and turn it into actionable insights. 
+**Retargeting**: 
+**vide**: how to integrate video into an online strategy, create video ads on a budget and make sure they're seen by the right people. 
+**web optimization**: Identify the right digital channels that will help you achieve your business goals and create better online user experiences. 
+**search advertising**:
+**business performance and measurement**:
+**Marketing Partner**:
+```
+
+```
+***Operational***
+
+localization
+Customer care
+talent recruitment
+Global Payments
+Logistics
+Tax and Legal
+
 ```
 
 

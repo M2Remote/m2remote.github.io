@@ -168,18 +168,33 @@ https://share.vidyard.com/watch/3n5Dt8NvdkBXjJiL4U39bn
 – Design and Development Process
 – Time Lines/Milestones/
 
+```
+proposal:   
+
+Tell us about your business  : my business sell online only? in-store only? both?
+industries: apparel,beauty & personal care, computer & consumer electronics,food groceries, home garden , other
+Are you using an ecommerce platform : shopify,woocommerce, custom other
+
+```
+
+```
+customer insight || marketing Stretegies  || future of marketing || Tools
+customer journey || automation
+consumer trends  || 
+```
+
 
 ### Kickoff Call
- Requirements & Discovery
-– Use Cases/Process Flows
-– Design Spec
-• UX/UI Creation
-– Functional Spec
-• Order Processing
-• Shipping
-• Payment Processors
-• Hosting
-• Design and Functionality Spec Signoff
+- Requirements & Discovery
+- Use Cases/Process Flows
+- Design Spec
+  - UX/UI Creation
+- Functional Spec
+  - Order Processing
+  - Shipping
+  - Payment Processors
+  - Hosting
+  - Design and Functionality Spec Signoff
 
 
 

@@ -71,6 +71,11 @@ Support local currencies, payment method and languages with over 150 language pa
 ### social Integration
 
 
+### SECURITY
+### SUPPORT
+### VISUAL MERCHANDISING
+### SEGMENTATION AND PERSONALIZATIO
+
 
 
 

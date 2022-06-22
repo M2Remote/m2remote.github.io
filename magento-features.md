@@ -76,6 +76,23 @@ Support local currencies, payment method and languages with over 150 language pa
 ### VISUAL MERCHANDISING
 ### SEGMENTATION AND PERSONALIZATIO
 
+### mulitchannel
+
+
+Managing all sales channel listings in one solution 
+
+Centralizing inventory management and purchasing 
+
+Publishing real-time inventory updates 
+
+Streamlining the pick and pack processes 
+
+Integrating shipping to process more efficiently 
+
+Having the ability to report across all sales channels 
+
+
+
 
 
 

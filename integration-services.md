@@ -47,6 +47,23 @@
 ### Integration with Marketing Automation
 ### Integration with Marketing Intelligence
 ### Integration with Omnichannel
+- Amazon
+- ebay
+- walmart
+- facbook commerce
+- instagram
+- TikTok
+- pinterest
+- google shopping
+- alibaba
+- target
+- etsy
+- Houzz
+- wish
+- jd.com
+- rakuten
+- newegg
+- bonanaza
 ### Integration with Price Intelligence
 ### Integration with Social Media Management
 ### Integration with Shipping method / Logistic Carrier
@@ -57,6 +74,7 @@
 ### Integration with Order Management System
 ### Integration with Micro-service
 - serverlesss-stack
+- Grpc
 ### Integration with Error Monitoring
 - sentry
 ### Integration with Uptime Monitoring

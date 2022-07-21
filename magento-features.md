@@ -27,16 +27,16 @@ Support local currencies, payment method and languages with over 150 language pa
 > Offer world-class B2B buying experiences with customised catalogues and pricing, personalised experiences and self-service customer portals for easy account management and ordering
 ##### Buys
 - **Corporate Accounts**: B2B buyer cooperate account hierarchy, department structure, user roles with appropriate roles and access control.
-- **Filter Navigation**
+- **Filter Navigation**: 
 - **Repeat Ordering**
 - **Matrix Ordering**
 - **Order Approval Workflows**
 - **Quick Order Form**
 - **CSV Order Upload**
 - **Single Page Checkout**
-- **Multiple Shopping List**
+- **Multiple Shopping List**: Corporate buyers can save and work on multiple shopping lists in OroCommerce. This enables buyers to work on multiple projects, save shopping lists for future use, and quickly purchase previously saved products.
 - **Shopping List Sharing**
-- **Request for Quotes**
+- **Request for Quotes**:Enable online commerce for your B2B buyers and digitize all buyer-seller interactions. Let your online buyers request quotes, negotiate pricing, and place orders on your website while your sales representatives respond to RFQs and create online purchase orders.
 - **Guest Registration/Guest Checkout**
 - **Support for Multiple Product Catalog Views**
 - **Support for Multiple Addresses**
@@ -44,15 +44,15 @@ Support local currencies, payment method and languages with over 150 language pa
 - **Downloadable search and filtered results**
 
 ##### Merchants
-- **User management, role access, and permission controls with ACL**
+- **User management, role access, and permission controls with ACL**:  Specify roles for all participants so they get access to the capabilities that make sense.
 - **Responsive Design/PWA**
 - **Reporting Engine**
 - **Workflow Engine**
 - **Customer Segmentation Engine**
-- **Promotions Engine**
+- **Promotions Engine**: Our promotions engine supports the management of one-time coupons, scheduled discounts, and on-going deals. Set up promotions, such as order discounts, line item discounts, Buy X/Get Y deals, and free-shipping offers, to win new customers and grow your business.
 - **Basic Inventory Management**
 - **Localization for different countries and regions**
-- **Tax Codes/Tax Rules**
+- **Tax Codes/Tax Rules**: Use our tax engine to set up tax rules per customer, customer group, product, or product category for different jurisdictions. OroCommerce’s functionality also supports integration into 3rd party tax systems.
 - **Multiple Units of Measure**
 - **Coupons**
 - **Related/Upsell Products**
@@ -90,8 +90,8 @@ Support local currencies, payment method and languages with over 150 language pa
 - **Landing Pages**
 
 ##### Price Lists
-- **Multiple Price Lists**
-- **Dynamic Pricing Engine**
+- **Multiple Price Lists** : Create and manage multiple price lists for specific corporate accounts, business units, or individual-buyers. Price lists can contain an unlimited number of price points, pricing tiers, and international currencies.
+- **Dynamic Pricing Engine** 
 - **Price Attributes**
 - **Tiered Pricing**
 - **Multiple Currencies**

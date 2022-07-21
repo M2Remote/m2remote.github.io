@@ -1,4 +1,4 @@
-### Multi-brand solution [ref](https://business.adobe.com/in/products/magento/multibrand-solution.html)
+### Multi-brand solution [reference ](https://business.adobe.com/in/products/magento/multibrand-solution.html)
 
 > Manage all your brands and serve all customers — business and consumer — via digital channels, from one platform.
 
@@ -25,6 +25,80 @@ Support local currencies, payment method and languages with over 150 language pa
 
 ### B2B 
 > Offer world-class B2B buying experiences with customised catalogues and pricing, personalised experiences and self-service customer portals for easy account management and ordering
+##### Buys
+- **Corporate Accounts**: B2B buyer cooperate account hierarchy, department structure, user roles with appropriate roles and access control.
+- **Filter Navigation**
+- **Repeat Ordering**
+- **Matrix Ordering**
+- **Order Approval Workflows**
+- **Quick Order Form**
+- **CSV Order Upload**
+- **Single Page Checkout**
+- **Multiple Shopping List**
+- **Shopping List Sharing**
+- **Request for Quotes**
+- **Guest Registration/Guest Checkout**
+- **Support for Multiple Product Catalog Views**
+- **Support for Multiple Addresses**
+- **Saved Searches**
+- **Downloadable search and filtered results**
+
+##### Merchants
+- **User management, role access, and permission controls with ACL**
+- **Responsive Design/PWA**
+- **Reporting Engine**
+- **Workflow Engine**
+- **Customer Segmentation Engine**
+- **Promotions Engine**
+- **Basic Inventory Management**
+- **Localization for different countries and regions**
+- **Tax Codes/Tax Rules**
+- **Multiple Units of Measure**
+- **Coupons**
+- **Related/Upsell Products**
+- **Customizable Web Catalog**
+- **Payment Method/Rules**
+- **Shipping Method/Rules**
+- **Simple & Configurable Products**
+- **Customizable Dashboards**
+- **Email/Email Templates**
+- **Support for Embedded Forms**
+- **Multi-Organization Support**
+- **Multi-Warehouse Management**
+- **Backordering**
+- **Multi-Vendor Support**
+- **Multi-Website Support**
+- **Microsoft Office 365 integration**
+- **Records sharing**
+
+##### Sales
+- **Multi-Channel CRM**
+- **Leads & Opportunity Management**
+- **Account Management**
+- **Case Management**
+- **Activities Logging (i.e. calls logged, notes saved, emails sent, etc.)**
+- **Task Management**
+- **Online Quoting**
+- **RFM Analysis**
+- **User Website Behavior Tracking**
+
+
+##### Marketing
+- **SEO Management**
+- **Basic Product Information Management (PIM)**
+- **CMS/Content-Block Support**
+- **Landing Pages**
+
+##### Price Lists
+- **Multiple Price Lists**
+- **Dynamic Pricing Engine**
+- **Price Attributes**
+- **Tiered Pricing**
+- **Multiple Currencies**
+
+##### Support
+- **Forum Support**
+- **Email & Ticketing Support**
 
 ### Headless commerce
 >Headless, API-based commerce is agile, fast and flexible, letting you deliver seamless customer experiences across every channel and device

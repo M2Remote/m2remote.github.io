@@ -112,6 +112,26 @@
 ### PWA
 ### Reporting
 
+### SSO /IdPs
+- MiniOrange
+- ADFS
+- Centrify
+- Okta
+- OneLogin
+- OpenAM
+- Oracle Identity Manager
+- JBoss Keycloak
+- Salesforce
+- Shibboleth
+- SimpleSAML
+- WSO2 SAML
+- NetIQ
+- Google Apps
+- Bitium
+- Azure AD
+- Auth0
+- Amazon SSO
+
 ### magento2 Services Connector
 - 
 

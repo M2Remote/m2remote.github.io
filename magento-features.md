@@ -70,7 +70,7 @@ Support local currencies, payment method and languages with over 150 language pa
 - **Multi-Website Support**
 - **Microsoft Office 365 integration**
 - **Records sharing**
-
+- **Personalised Product Suggestions**
 ##### Sales
 - **Multi-Channel CRM**
 - **Leads & Opportunity Management**
@@ -88,6 +88,8 @@ Support local currencies, payment method and languages with over 150 language pa
 - **Basic Product Information Management (PIM)**
 - **CMS/Content-Block Support**
 - **Landing Pages**
+- **Abandoned Cart Recovery Emails**
+- **Re-marketing and Lookalike Targeting**
 
 ##### Price Lists
 - **Multiple Price Lists** : Create and manage multiple price lists for specific corporate accounts, business units, or individual-buyers. Price lists can contain an unlimited number of price points, pricing tiers, and international currencies.
@@ -168,6 +170,10 @@ Having the ability to report across all sales channels
 
 
 
-
+## microservices
+## api first
+## cloud native
+## headless
+## machine learning ,AI, AR, Automation
 
 

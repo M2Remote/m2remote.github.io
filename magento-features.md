@@ -167,7 +167,14 @@ Integrating shipping to process more efficiently
 
 Having the ability to report across all sales channels 
 
-
+**Customer Segmentation**: Identify systematic groups of customers to make marketing more precise.
+**Product Categorization:** Automatically sort products into categories to speed up inventory management and improve customer navigation.
+**Churn Prediction:** Predict when customers will stop using a service to analyze potential reasons and allow for countermeasures.
+**Sentiment Analysis:** Evaluate the public perception of a product based on sources like social media.
+**Inventory Forecast:** Make production and distribution more efficient by predicting market demands.
+**Anticipatory Shipping:** Ship a product before an order is placed.
+**Customer Support**
+**Anomaly Detection**
 
 
 ## microservices

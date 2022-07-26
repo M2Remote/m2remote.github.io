@@ -179,8 +179,27 @@ Having the ability to report across all sales channels
 
 ## microservices
 ## api first
-## cloud native
+## cloud native- cloud infrastructure  laas & paas ( google cloud, microsoft azura, aws , digitalocean ) alibaba cloud, IBM cloud 
 ## headless
 ## machine learning ,AI, AR, Automation
+
+## monitoring
+
+## performance audit
+
+## infrastructure review
+
+## downtime deployment
+
+## log managment
+
+## Platform agnostic
+
+Full automation around a range of trusted cloud providers allows flexibility around how much your infrastructure is hated where, helping you meet your disaster recovery requirements
+
+## SLA
+
+
+
 
 

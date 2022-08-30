@@ -36,6 +36,15 @@ https://share.vidyard.com/watch/3n5Dt8NvdkBXjJiL4U39bn
 - Incident(fix,report)
 - Issue(fix,repot)
 
+### services
+- identity
+- profile
+- segmentation
+- ingestion
+- query
+- AI/ML
+- privacy/Governance
+- Destination
 
 ### Features
 - [ ] POS

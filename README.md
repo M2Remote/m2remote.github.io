@@ -58,6 +58,10 @@ https://share.vidyard.com/watch/3n5Dt8NvdkBXjJiL4U39bn
 - [ ] omnichannel
 - [ ] payment gateway integration/ payment services
 - [ ] b2b
+- [ ] company account
+- [ ] Quick Order
+- [ ] Requisition Lists
+- [ ] Quotes
 - [ ] shipping integration /services
 - [ ] marketing
 - [ ] reporting
@@ -68,7 +72,11 @@ https://share.vidyard.com/watch/3n5Dt8NvdkBXjJiL4U39bn
 - [ ] search
 - [ ] performance
 - [ ] product feeds
-- [ ] reward points
+- [ ] reward point
+- [ ] Loyalty
+- [ ] promotions
+- [ ] segments
+- [ ] personalised
 - [ ] multi-vendor
 - [ ] multi-channel
 - [ ] marketplace
@@ -235,8 +243,6 @@ Tax and Legal
   - Design and Functionality Spec Signoff
 
 
-
-
 • Purchase of Magento License
 • Development
 • Change Orders – Changes in Scope
@@ -259,6 +265,47 @@ Support Plan
 
 [reference](https://www.wrike.com/project-management-guide/project-lifecycle/)
 
+
+### customer touchpoints
+- sales/services
+- marketpalces
+- social
+- mobile - 
+- web (ecommerce)  - inventory visibility & availablity
+- brick and mortal
+- things/IOT
+- kiosks - order orchestration
+- POS - 
+- call center - call center experience
+
+### frontend 
+- headless Graphql API
+- PWA
+- theme
+
+### commerce operations
+- multi-store
+- multi-region
+- multi-business
+- reporting
+- fullfillment
+
+
+### system of record
+- ERP
+- SCM
+- CRM
+- ESB
+- Customer Data
+- Payment Gateways
+- Warehouse Mangements
+
+### inventory supply & service sources
+- retail store - supply collaboration
+- service providers - reverse logistics
+- 3PL
+- manufactures/vendors - configure, price, quote
+- wareshouses/DCs - delivery , service scheduling
 
 
 

@@ -1,5 +1,0 @@
-- rapid development
-- continious integration
-- customizable
-- scalable
-- enhanced security

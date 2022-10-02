@@ -36,6 +36,15 @@ https://share.vidyard.com/watch/3n5Dt8NvdkBXjJiL4U39bn
 - Incident(fix,report)
 - Issue(fix,repot)
 
+### services
+- identity
+- profile
+- segmentation
+- ingestion
+- query
+- AI/ML
+- privacy/Governance
+- Destination
 
 ### Features
 - [ ] POS
@@ -49,6 +58,10 @@ https://share.vidyard.com/watch/3n5Dt8NvdkBXjJiL4U39bn
 - [ ] omnichannel
 - [ ] payment gateway integration/ payment services
 - [ ] b2b
+- [ ] company account
+- [ ] Quick Order
+- [ ] Requisition Lists
+- [ ] Quotes
 - [ ] shipping integration /services
 - [ ] marketing
 - [ ] reporting
@@ -59,7 +72,11 @@ https://share.vidyard.com/watch/3n5Dt8NvdkBXjJiL4U39bn
 - [ ] search
 - [ ] performance
 - [ ] product feeds
-- [ ] reward points
+- [ ] reward point
+- [ ] Loyalty
+- [ ] promotions
+- [ ] segments
+- [ ] personalised
 - [ ] multi-vendor
 - [ ] multi-channel
 - [ ] marketplace
@@ -168,20 +185,62 @@ https://share.vidyard.com/watch/3n5Dt8NvdkBXjJiL4U39bn
 – Design and Development Process
 – Time Lines/Milestones/
 
+```
+proposal:   
+
+Tell us about your business  : my business sell online only? in-store only? both?
+industries: apparel,beauty & personal care, computer & consumer electronics,food groceries, home garden , other
+Are you using an ecommerce platform : shopify,woocommerce, custom other
+
+```
+
+```
+DIgital Marketing 
+
+customer insight || marketing Stretegies  || future of marketing || Tools
+customer journey || automation
+consumer trends  || 
+**Business stretegy** : how to define and track clear goals, segment audiences and analyse data to help improve your online marketing efforts. 
+**SEO**: Understand the differences between organic and paid search, learn how to develop the most effective SEO plan and optimise web pages so that users can find content easier.
+**SEM** :Google Ads, learn about the different research tools available, plus how to choose keywords and optimise campaigns for a better return
+**Locally || Reach Locally & help them & local marketing : All the strategies and tools you need to build an online store, sell effectively online and optimise the user experience.
+**Social Media**: how to identify the right social network sites, create great content users will love and measure your success. 
+**content Marketing** : how to grow brand awareness and get more conversions by creating and distributing high-value content to potential customers. 
+**Email Marketing**: how to track responses, create simple landing pages and use A/B testing. 
+**display advertising** : Get noticed online by identifying the right audiences, ad networks and strategies for your display ads. 
+Analytics & data insight** : how to collect and analyse user data and turn it into actionable insights. 
+**Retargeting**: 
+**vide**: how to integrate video into an online strategy, create video ads on a budget and make sure they're seen by the right people. 
+**web optimization**: Identify the right digital channels that will help you achieve your business goals and create better online user experiences. 
+**search advertising**:
+**business performance and measurement**:
+**Marketing Partner**:
+```
+
+```
+***Operational***
+
+localization
+Customer care
+talent recruitment
+Global Payments
+Logistics
+Tax and Legal
+
+```
+
 
 ### Kickoff Call
- Requirements & Discovery
-– Use Cases/Process Flows
-– Design Spec
-• UX/UI Creation
-– Functional Spec
-• Order Processing
-• Shipping
-• Payment Processors
-• Hosting
-• Design and Functionality Spec Signoff
-
-
+- Requirements & Discovery
+- Use Cases/Process Flows
+- Design Spec
+  - UX/UI Creation
+- Functional Spec
+  - Order Processing
+  - Shipping
+  - Payment Processors
+  - Hosting
+  - Design and Functionality Spec Signoff
 
 
 • Purchase of Magento License
@@ -206,6 +265,47 @@ Support Plan
 
 [reference](https://www.wrike.com/project-management-guide/project-lifecycle/)
 
+
+### customer touchpoints
+- sales/services
+- marketpalces
+- social
+- mobile - 
+- web (ecommerce)  - inventory visibility & availablity
+- brick and mortal
+- things/IOT
+- kiosks - order orchestration
+- POS - 
+- call center - call center experience
+
+### frontend 
+- headless Graphql API
+- PWA
+- theme
+
+### commerce operations
+- multi-store
+- multi-region
+- multi-business
+- reporting
+- fullfillment
+
+
+### system of record
+- ERP
+- SCM
+- CRM
+- ESB
+- Customer Data
+- Payment Gateways
+- Warehouse Mangements
+
+### inventory supply & service sources
+- retail store - supply collaboration
+- service providers - reverse logistics
+- 3PL
+- manufactures/vendors - configure, price, quote
+- wareshouses/DCs - delivery , service scheduling
 
 
 

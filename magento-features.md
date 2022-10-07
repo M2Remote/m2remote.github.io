@@ -26,12 +26,124 @@ Support local currencies, payment method and languages with over 150 language pa
 ### B2B 
 > Offer world-class B2B buying experiences with customised catalogues and pricing, personalised experiences and self-service customer portals for easy account management and ordering
 
+   - company account
+   - requistion lists
+   - purchase order
+   - company credit
+   - payment on account
+   - quick order
+   - shared catalogue
+   - b2b quotes
+   - configuring company email
+
+### marketing
+
+   - customer segments
+   - visual merchandise
+   - customer attributes
+   - email reminder
+   - gift cards
+   - gift registeries
+   - wishlist search
+   - multiple wishlist
+   - product recommends
+   - related product rule
+   - reward & loyalty 
+   - google tag manager
+   - private sales & events
+
+### sales
+   - cart thumbnail picture
+   - managing shopping cart
+   - address search
+   - order archieve
+   - order management system
+   - return management
+
+### catalogue 
+   - full export 
+   - action logs
+   - schedule data 
+
+### tax 
+   - tax management
+
+### google
+   - tag manager
+   - analytics
+   - privacy setting
+   - contact experments
+   - adwords
+
+### seo 
+   - meta data
+   - sitemap
+   - urlrewites
+
+### customer 
+   - account
+   - group
+   - segments
+
+### shipping
+### payments
+### navigation tools 
+   - layered navigation
+   - breadcrumbs
+   - catalogue search
+   - search term
+
+### marketing
+   - promotions
+   - visual merchanise
+   - loyalty
+   - private sale
+   - events
+
+### order
+   - order
+   - invoice
+   - shipment
+   - dispatches
+   - batches
+   - credit memo
+   - store credit
+   - billing aggregate
+   - order archieve
+
+### category
+   - permission
+   - standard 
+
+### inventory
+### price management tool
+### related cross sell , upsell 
+### product type
+
+# store 
+ - multistore
+ - multi currencies
+ - multi language
+ - 
 ### Headless commerce
 >Headless, API-based commerce is agile, fast and flexible, letting you deliver seamless customer experiences across every channel and device
 
 ### Page Builder
 
-    Sell Anywhere
+    
+        
+### Flexibility
+
+### integrations
+
+
+### Reporting & analytics
+
+### social Integration
+
+
+
+Sell Anywhere
         Multi-brand solution
         Mobile centricity
         Integrated B2B functionality
@@ -59,16 +171,7 @@ Support local currencies, payment method and languages with over 150 language pa
         Fully Managed Service
         Extended capabilities
         PCI compliance
-        ERP integration
-        
-### Flexibility
-
-### integrations
-
-
-### Reporting & analytics
-
-### social Integration
+        ERP integration****
 
 
 

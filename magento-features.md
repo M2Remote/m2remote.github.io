@@ -27,14 +27,53 @@ Support local currencies, payment method and languages with over 150 language pa
 > Offer world-class B2B buying experiences with customised catalogues and pricing, personalised experiences and self-service customer portals for easy account management and ordering
 
    - company account
+   - company order approval ( allow user to enable order review & approval for subaccounts )
    - requistion lists
    - purchase order
+   - purchase order 
    - company credit
    - payment on account
    - quick order
    - shared catalogue
-   - b2b quotes
+   - b2b quotes (request a quote)
    - configuring company email
+   - tiered pricing table
+   - tiered pricing
+   - buy x Get 1 free discounts
+   - product information table
+   - categorty visibility control
+   - product visibility control
+   - offers  & bundles features
+   - seperate b2b & b2C registeration
+   - Hide prices to guests
+   - Hide website entirely
+   - message & conversations
+   - different price by Group
+   - multiple user on Account
+   - complex tax Exemptions
+   - b2b purchase list
+   - GST Handling
+   - EU VAT Handling
+   - B2B + B2C Hybrid
+   - extended re-order
+   - payment & shipping method control
+   - conditio-based Discount
+   - Invoice Payment Gateway
+   - Role-based Approval (automatic vs manual)
+   - Quick CSV Orders
+   - Group based free shipping
+   - VAT VIES Validation
+   - Group based taxes & Fees
+   - Advanced EMail Notifications
+   - Search product by SKU
+   - Dynamic Free SHipping rules
+   - Zero Tax Product Rules
+   - Add Taxed /Fees
+   - Payment method: disocount, min ,max order rules
+   - product information table
+   - replace prices with "Request a Quote"
+   - force login
+   - 
 
 ### marketing
 

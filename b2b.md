@@ -2,6 +2,8 @@
 
 - Hide prices to guests
 
+  [reference](https://webwizards.dev/hide-prices-private-store-woocommerce/)
+
  ![image](https://prnt.sc/guNKCODd7ip0)
  
  ![image](https://prnt.sc/Axt9erMGGriR)

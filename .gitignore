@@ -1,4 +1,9 @@
-.idea/
-backup.zip
-<!--*
-index copy.html
+# dependencies
+node_modules
+
+# production build
+.svelte-kit
+build
+
+# secrets
+.env

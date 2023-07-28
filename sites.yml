@@ -1,0 +1,860 @@
+# The description key supports full markdown syntax.
+
+# New tags should strike a generality balance so they convey
+# useful information but are still applicable to more than just 1 site.
+
+# date_created is usually the date of first commit on a project which can be found
+# by opening the 'Insights > Network' tab on a repo (e.g.
+# https://github.com/janosh/awesome-sveltekit/network) and clicking
+# cmd/ctrl + left arrow to jump to the very start of the commit history.
+# site_src is the link to a subfolder if e.g. the site is part of a monorepo.
+
+- title: Svelte.dev
+  url: https://svelte.dev
+  repo: https://github.com/sveltejs/svelte
+  # Sapper to SvelteKit migration in https://git.io/JXSh1
+  site_src: https://github.com/sveltejs/sites/blob/-/sites/svelte.dev
+  npm: https://npmjs.com/package/svelte
+  description: Cybernetically enhanced web apps.
+  uses: [CodeMirror, Mapbox, Docker]
+  tags: [docs, monorepo, dev tools, blog, REPL, NPM package]
+  date_created: 2021-10-19 # https://git.io/JXShN
+  date_added: 2021-11-11
+
+- title: Official SvelteKit docs
+  url: https://kit.svelte.dev
+  repo: https://github.com/sveltejs/kit
+  site_src: https://github.com/sveltejs/kit/blob/-/sites/kit.svelte.dev
+  npm: https://npmjs.com/package/@sveltejs/kit
+  description: The fastest way to build Svelte apps.
+  uses: [Netlify, PNPM]
+  tags: [docs, monorepo, NPM package]
+  date_created: 2021-03-10 # https://git.io/JcQYo
+  date_added: 2021-05-25
+
+- title: SK Incognito
+  url: https://sk-incognito.vercel.app
+  repo: https://github.com/GrygrFlzr/kit-docs
+  description: The unofficial SvelteKit docs.
+  uses: [MDsveX, Tailwind, PNPM]
+  tags: [docs, Vercel]
+  date_created: 2021-02-15
+  date_added: 2021-05-25
+
+- title: TikZ
+  url: https://janosh.github.io/tikz
+  repo: https://github.com/janosh/tikz
+  description: Random collection of MIT-licensed standalone TikZ images, mostly about physics and machine learning.
+  tags: [research, science, diagrams, graphics, latex]
+  uses: [TypeScript, svelte-multiselect, pre-commit, PNPM, GitHub Pages]
+  date_created: 2020-08-09
+  date_added: 2021-05-25
+
+- title: markushatvan.com
+  url: https://markushatvan.com
+  description: Blog posts with code snippets, contact form with Svelte Forms Lib, RSS and sitemap.
+  uses: [Tailwind, MDsveX, Svelte Forms Lib]
+  tags: [blog, rss, sitemap]
+  date_created: 2020-08-21
+  date_added: 2021-05-25
+
+- title: Studenten bilden Schüler
+  url: https://studenten-bilden-schueler.de
+  repo: https://github.com/sbsev/site
+  description:
+    Student-run nonprofit initiative with chapters located in university towns all across Germany.
+    Mission is to contribute towards educational equality by providing free tutoring to children
+    from underprivileged families.
+  uses:
+    - Contentful
+    - Algolia
+    - GraphQL
+    - Netlify
+    - MapBox
+    - svelte-multiselect
+    - Playwright
+    - Vitest
+  tags: [non-profit, volunteering, education, equality]
+  date_created: 2020-12-12
+  date_added: 2021-06-09
+
+- title: Guess The Year
+  url: https://guess-the-year.davjhan.com
+  repo: https://github.com/davjhan/guess-the-year-game
+  description:
+    Round-based browser game where you guess the year in which famous event happened.
+    Answers range between 1900-2021. You start with 100 points. The more your guess is off, the more points you loose.
+  uses: [Tailwind, Netlify]
+  tags: [game]
+  date_created: 2021-05-09
+  date_added: 2021-05-25
+
+- title: Gitpod
+  url: https://gitpod.io
+  repo: https://github.com/gitpod-io/website
+  description:
+    Gitpod streamlines developer workflows by providing prebuilt, collaborative
+    development environments in your browser - powered by VS Code.
+  uses: [MDsveX, Tailwind, Netlify]
+  tags: [commercial, dev tools, cloud computing]
+  date_created: 2021-03-17
+  date_added: 2021-05-31
+
+- title: SvelteKit Experiments
+  url: https://sveltekit-demo-psi.vercel.app
+  repo: https://github.com/tsukhu/sveltekit-demo
+  description:
+    A set of example apps built with SvelteKit and deployed on Vercel. As an ongoing project,
+    this will continue to be enhanced with more examples to showcase the power of SvelteKit.
+  uses: [Tailwind, Vercel, GraphQL, Firebase, Typescript]
+  tags: [sample applications, cloud computing]
+  date_created: 2021-05-27
+  date_added: 2021-06-09
+
+- title: puruvj.dev
+  url: https://puruvj.dev
+  repo: https://github.com/puruvj/puruvjdev3
+  description: Puru Vijay's blog site.
+  uses: [Vercel, TypeScript, SCSS, Cloudinary]
+  tags: [blog]
+  date_created: 2021-05-06
+  date_added: 2021-06-11
+
+- title: GraphCMS Starter Blog
+  url: https://scottspence.com/2021/05/06/graphcms-svelte-starter
+  repo: https://github.com/spences10/sveltekit-starter-blog
+  description: This blog starter shows how to use SvelteKit with GraphCMS.
+  uses: [Vercel, Tailwind, SCSS, GraphCMS]
+  tags: [blog]
+  date_created: 2021-05-16
+  date_added: 2021-06-14
+
+- title: Beatbump
+  url: https://beatbump.io
+  repo: https://github.com/snuffyDev/beatbump
+  description: Alternative frontend for YouTube Music.
+  uses: [TypeScript, PostCSS, SCSS]
+  tags: [blog]
+  date_created: 2021-06-17
+  date_added: 2021-07-08
+
+- title: Paper Trader Game
+  url: https://paper-trader.davjhan.com
+  repo: https://github.com/davjhan/paper-trader-game
+  description:
+    A simple web game where you are given 45 seconds and $100 to make as much money as you can trading a
+    fake stock.
+  tags: [game, mobile]
+  uses: [Tailwind, Netlify, Chart.js, Plausible]
+  date_created: 2021-07-25
+  date_added: 2021-08-01
+
+- title: neovim craft
+  url: https://neovimcraft.com
+  repo: https://github.com/neurosnap/neovimcraft
+  description: Curated list of neovim plugins.
+  tags: [programming, resource list]
+  uses: [TypeScript, Husky]
+  date_created: 2021-07-18
+  date_added: 2021-08-13
+
+- title: swyxkit
+  url: https://swyxkit.netlify.app
+  repo: https://github.com/sw-yx/swyxkit
+  description: An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for 2022!
+  tags: [programming, blog, portfolio]
+  uses: [Tailwind, Netlify]
+  date_created: 2020-09-11
+  date_added: 2021-09-01
+
+- title: Svelte Society
+  url: https://sveltesociety.dev
+  repo: https://github.com/svelte-society/sveltesociety.dev
+  description: Global network of Svelte fans striving to promote Svelte and its ecosystem.
+  tags: [programming, components, events, cheat sheets]
+  uses: [TypeScript, Gitpod]
+  date_created: 2020-05-03
+  date_added: 2021-10-01
+
+- title: Flayks
+  url: https://flayks.com
+  description: Portfolio of Félix Péault, Digital Designer and Art Director.
+    Sanity.io [[interview](https://sanity.io/blog/felix-peault-community-interview)],
+    [[feature](https://sanity.io/projects/flayks-portfolio-2021)].
+  tags: [portfolio]
+  uses: [Sanity, anime.js, Vercel, TypeScript, SCSS, PostCSS]
+  date_created: 2021-10-01
+  date_added: 2021-10-01
+
+- title: Matt Fantinel
+  url: https://fantinel.dev
+  repo: https://github.com/matfantinel/matfantinel.github.io
+  description: Personal website and blog of Matt Fantinel, web developer.
+  uses: [MDsveX, SCSS, Iconoir, Plausible]
+  tags: [personal, blog, portfolio, SCSS, MDsveX]
+  date_created: 2021-09-07
+  date_added: 2021-10-01
+
+- title: Level Up Tutorials
+  url: https://leveluptutorials.com
+  description: Video tutorials for web developers and designers.
+  uses: [TypeScript, Google Tag Manager]
+  tags: [tutorials, education, videos, web development, design]
+  date_created: 2021-09-01
+  date_added: 2021-10-5
+
+- title: JSchallenger
+  url: https://jschallenger.com
+  description: Free Javascript challenges. Learn Javascript online by solving coding exercises.
+  uses: [Tailwind, DynamoDB, AWS]
+  tags: [education, coding challenges, JavaScript]
+  date_created: 2021-10-09
+  date_added: 2021-10-9
+
+- title: Files
+  url: https://files.community
+  repo: https://github.com/files-community/website
+  description: 3rd Party File Manager for Windows.
+  uses: [PNPM, TypeScript, SCSS, Vercel]
+  tags: [education, coding challenges, JavaScript]
+  date_created: 2021-05-20
+  date_added: 2021-10-11
+
+- title: Svelte Summit Fall 2021
+  url: https://sveltesummit.com
+  repo: https://github.com/svelte-society/svelte-summit
+  description: The 4th virtual conference about Svelte
+  uses: [Elder.js, PostCSS, Cloudflare]
+  tags: [conference, community event, learning, news]
+  date_created: 2021-07-25
+  date_added: 2021-10-12
+
+- title: cybernetic.dev
+  url: https://cybernetic.dev
+  description: Data-centric UI experiments
+  uses: [Three.js, Cytoscape.js, Vercel]
+  tags: [data viz, statistics, machine learning]
+  date_created: 2021-01-01
+  date_added: 2021-10-19
+
+- title: digital criticism
+  url: https://critique-digitale.ch
+  repo: https://github.com/critique-digitale/critique-digitale.ch
+  description: Scholarly conference in the digital humanities.
+  uses: [MDsveX, MVP.css, Cloudflare]
+  tags: [education, conference, community event, learning]
+  date_created: 2021-07-06
+  date_added: 2021-10-28
+
+- title: The Pudding
+  url: https://pudding.cool
+  repo: https://github.com/the-pudding/website
+  description: Digital publication with emphasis on data viz.
+  uses: [D3, PostCSS, Lodash, PNPM]
+  tags: [digital publishing, data viz, education]
+  date_created: 2021-09-03
+  date_added: 2021-11-01
+
+- title: Urara
+  url: https://urara-demo.netlify.app
+  repo: https://github.com/importantimport/urara
+  description: Sweet & Powerful SvelteKit Blog Template.
+  uses: [MDsveX, PostCSS, Tailwind, DaisyUI, TypeScript, PNPM]
+  tags: [blog, template]
+  date_created: 2021-11-01
+  date_added: 2021-11-05
+
+- title: connorrothschild.com
+  url: https://connorrothschild.com
+  repo: https://github.com/connorrothschild/.com
+  description: Creative, content-based portfolio site of Connor Rothschild.
+  uses: [MDsveX, GSAP, Netlify]
+  tags: [blog, portfolio, animations]
+  date_created: 2021-12-10
+  date_added: 2021-12-11
+
+- title: Svelte Cubed
+  url: https://svelte-cubed.vercel.app
+  repo: https://github.com/Rich-Harris/svelte-cubed
+  description: Three.js component library for Svelte. Abandoned. Check out [threlte](https://threlte.xyz) instead.
+  uses: [TypeScript, PNPM, Vercel, MDsveX]
+  tags: [components, library, animations, interactive]
+  date_created: 2021-05-18
+  date_added: 2021-12-19
+
+- title: Multi-Monitor Calculator
+  url: https://multimonitorcalculator.com
+  repo: https://github.com/KevinVandy/multi-monitor_calculator
+  description: A tool for planning your multi-monitor setup.
+  uses: [TypeScript, SMUI, Sass]
+  tags: [interactive, 3d, calculator, monitor]
+  date_created: 2018-06-08
+  date_added: 2022-01-01
+
+- title: Modern Fluid Typography Editor
+  url: https://modern-fluid-typography.vercel.app
+  repo: https://github.com/codeAdrian/modern-fluid-typography-editor
+  description: Easily create and fine-tune fluid typography values with Modern CSS `clamp()`.
+  uses: [TypeScript, PostCSS, Chart.js, cssnano]
+  tags: [developer tool, design, frontend, typography]
+  date_created: 2021-11-29
+  date_added: 2022-01-04
+
+- title: mermaid-live-editor
+  url: https://mermaid.live
+  repo: https://github.com/mermaid-js/mermaid-live-editor
+  description: Edit, live preview and share mermaid charts and diagrams.
+  uses: [TypeScript, Docker, Tailwind, PostCSS, Cypress, Husky]
+  tags: [developer tool, diagrams, charts, graphics]
+  date_created: 2019-11-13
+  date_added: 2022-02-05
+
+- title: svelte-realworld
+  url: https://realworld.svelte.dev
+  repo: https://github.com/sveltejs/realworld
+  description: SvelteKit implementation of the RealWorld app.
+  uses: [Netlify, MarkedJS]
+  tags: [demo, performance, benchmark]
+  date_created: 2017-04-20
+  date_added: 2022-02-06
+
+- title: macos-web
+  url: https://macos-web.app
+  repo: https://github.com/PuruVJ/macos-web
+  description: Replicate some of the macOS desktop experience on the web.
+  uses: [TypeScript, Vercel, SCSS, PNPM, Iconify]
+  tags: [demo, proof of concept, learning]
+  date_created: 2021-08-12
+  date_added: 2022-02-06
+
+- title: inlang
+  url: https://inlang.com
+  repo: https://github.com/inlang/inlang
+  site_src: https://github.com/inlang/inlang/blob/-/source-code/website
+  description: Translate software products 2x faster.
+  uses: [TypeScript, Vercel, IBM Carbon, Tailwind, Supabase]
+  tags: [front-end, developer tool, localization, i18n]
+  date_created: 2021-08-04
+  date_added: 2022-02-23
+
+- title: Houdini GraphQL
+  url: https://houdinigraphql.com
+  repo: https://github.com/HoudiniGraphQL/houdini
+  description: Documentation site for Houdini.
+  uses: [PNPM, MDsveX, Husky, highlight.js]
+  tags: [graphql, data fetching, front-end, developer tool, minimal]
+  date_created: 2021-01-19
+  date_added: 2022-03-22
+
+- title: ConcertMash
+  url: https://concertmash.com
+  repo: https://github.com/mcmxcdev/ConcertMash
+  description: Easily generate a playlist for your upcoming concerts based on selected artists!
+  uses: [TypeScript, Tailwind, Spotify Web API, Filepond, PNPM, Netlify]
+  tags: [music, playlist-generator]
+  date_created: 2022-03-15
+  date_added: 2022-03-24
+
+- title: Layer Cake
+  url: https://layercake.graphics
+  repo: https://github.com/mhkeller/layercake
+  description:
+    Graphics framework for Svelte with colorful demo page. Can generate responsive
+    graphics server-side that work without JavaScript.
+  uses: [D3, GitHub Pages, JSDoc, Mocha, Underscore]
+  tags: [charts, dataviz, graphics, layers, canvas, WebGL]
+  date_created: 2018-10-18
+  date_added: 2022-03-24
+
+- title: Pancake
+  url: https://pancake-charts.surge.sh
+  repo: https://github.com/Rich-Harris/pancake
+  description:
+    Experimental Svelte charting library. Visualize data with a combination of HTML,
+    SVG and canvas/WebGL. Designed with server-side rendering in mind, so graphs potentially work without JavaScript.
+    [Blog post](https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp).
+  uses: [D3, surge.sh, TypeScript]
+  tags: [charts, dataviz, graphics, canvas, WebGL]
+  date_created: 2019-10-01
+  date_added: 2022-04-05
+
+- title: Svelte Headless UI
+  url: https://svelte-headlessui.goss.io
+  repo: https://github.com/rgossiaux/svelte-headlessui
+  description: Unofficial Svelte port of Headless UI components.
+  uses: [MDsveX, TypeScript, PostCSS, Tailwind, cssnano, Jest, rehype]
+  tags: [component library, a11y]
+  date_created: 2021-12-05
+  date_added: 2022-04-14
+
+- title: Svelte Material UI
+  url: https://sveltematerialui.com
+  repo: https://github.com/hperrin/svelte-material-ui
+  site_src: https://github.com/hperrin/svelte-material-ui/blob/-/packages/site
+  npm: https://npmjs.com/package/svelte-material-ui
+  description: Svelte Material UI Components.
+  uses: [MDsveX, TypeScript, highlight.js, remark, Sass]
+  tags: [material design, component library, NPM package]
+  date_created: 2019-07-17
+  date_added: 2022-04-16
+
+- title: Fluent Svelte
+  url: https://fluent-svelte.vercel.app
+  repo: https://github.com/Tropix126/fluent-svelte
+  description: A faithful implementation of Microsoft's Fluent design system in Svelte.
+  uses: [MDsveX, SCSS, TypeScript, remark, rehype, PNPM, PostCSS, Prism]
+  tags: [windows ui, component library, design system]
+  date_created: 2021-06-05
+  date_added: 2022-04-24
+
+- title: SvelteKit on Edge
+  url: https://sveltekit-on-the-edge.vercel.app
+  repo: https://github.com/Rich-Harris/sveltekit-on-the-edge
+  description:
+    SvelteKit, running on the edge. In this case, Vercel's edge network.
+    See <https://twitter.com/leeerob/status/1517627769924034565>.
+  uses: [PNPM, Vercel]
+  tags: [speed, caching, deployment]
+  date_created: 2022-04-20
+  date_added: 2022-04-24
+
+- title: evidence
+  url: https://evidence.dev
+  repo: https://github.com/evidence-dev/evidence
+  site_src: https://github.com/evidence-dev/evidence/blob/-/sites/example-project
+  description: Evidence enables analysts to deliver a polished business intelligence system using SQL and markdown.
+  uses: [PNPM, Changesets, echarts, uvu]
+  tags: [analytics, business-intelligence, sql, markdown, data viz, charts]
+  date_created: 2021-05-27
+  date_added: 2022-05-01
+
+- title: Coolify
+  url: https://coolify.io
+  repo: https://github.com/coollabsio/coolify
+  description: An open-source & self-hostable Heroku / Netlify alternative.
+  uses: [PNPM, TypeScript, Tailwind, sveltekit-i18n, PostCSS, Husky]
+  tags: [self-hosting, deployment, sql, docker, redis, mongodb, databases]
+  date_created: 2021-03-24
+  date_added: 2022-05-10
+
+- title: Flowbite
+  url: https://flowbite-svelte.com
+  repo: https://github.com/themesberg/flowbite-svelte
+  description: Official Svelte components built for Flowbite and Tailwind CSS. All interactivity handled by Svelte.
+  uses: [PNPM, TypeScript, Tailwind, MDsveX, Prism, PostCSS, Playwright]
+  tags: [component library, forms, modals, spinners, dark-mode, toast]
+  date_created: 2022-01-24
+  date_added: 2022-05-19
+
+- title: Good First Issue Finder
+  url: https://finder.eddiehub.io
+  repo: https://github.com/EddieHubCommunity/good-first-issue-finder
+  description: Good First Issue Finder helps new contributors pave their path into the world of OSS.
+  uses: [TypeScript, Tailwind, Husky, Octokit, PostCSS]
+  tags: [oss, community, developer guide]
+  date_created: 2022-01-20
+  date_added: 2022-05-19
+
+- title: Elementari
+  url: https://janosh.github.io/elementari
+  repo: https://github.com/janosh/elementari
+  npm: https://npmjs.com/package/elementari
+  description:
+    'Interactive visualizations for materials science: periodic tables, 3d crystal
+    structures (Molecules coming soon), Bohr atoms, nuclei, heatmaps, scatter plots.'
+  uses:
+    - TypeScript
+    - pre-commit
+    - D3
+    - svelte-multiselect
+    - Vitest
+    - Playwright
+    - PNPM
+    - jsdom
+    - GitHub Pages
+  tags: [chemistry, science, data viz, plotting, NPM package]
+  date_created: 2022-05-31
+  date_added: 2022-06-02
+
+- title: Pixel Art Together
+  url: https://pixelart.liveblocks.app
+  repo: https://github.com/liveblocks/pixel-art-together
+  description: A multiplayer pixel art editor powered by Liveblocks.
+  uses: [TypeScript, Liveblocks, Tailwind, PostCSS, panzoom]
+  tags: [art, drawing, multiplayer, collaboration]
+  date_created: 2022-02-17
+  date_added: 2022-06-02
+
+- title: Sveltestrap
+  url: https://sveltestrap.js.org
+  repo: https://github.com/bestguy/sveltestrap
+  description: Bootstrap 4 & 5 components for Svelte.
+  uses: [Storybook, Babel, Testing Library, Jest, PostCSS, Prism]
+  tags: [component library]
+  date_created: 2017-03-19
+  date_added: 2022-06-02
+
+- title: Svelvet
+  url: https://svelvet.io
+  repo: https://github.com/oslabs-beta/Svelvet
+  description: A lightweight Svelte component library for building interactive node-based flow diagrams.
+  uses: [Playwright, D3, Testing Library, Tailwind, PostCSS, Vitest]
+  tags: [flow diagrams, dev tool, component library, visualization]
+  date_created: 2022-05-06
+  date_added: 2022-06-02
+
+- title: Cryptgeon
+  url: https://cryptgeon.nicco.io
+  repo: https://github.com/cupcakearmy/cryptgeon
+  site_src: https://github.com/cupcakearmy/cryptgeon/blob/-/packages/frontend
+  description: A secure, open source notes and file sharing service inspired by PrivNote written in Rust & Svelte.
+  uses: [svelte-intl-precompile, sanitize-html]
+  tags: [file sharing, note sharing, secure notes, privacy, data protection]
+  date_created: 2021-05-01
+  date_added: 2022-06-09
+
+- title: Svelte Intl Precompile
+  # weird url as temp fix for https://github.com/cibernox/svelte-intl-precompile/issues/58
+  url: https://svelte-intl-precompile.com/en/docs/configuration
+  repo: https://github.com/cibernox/svelte-intl-precompile
+  description:
+    I18n library for Svelte that analyzes your keys at build time for maximum performance and
+    minimal footprint. Built as a SvelteKit plugin so good to use as a reference if you want to build one yourself.
+  uses: [JS-Yaml, JSON5]
+  tags: [i18n, translation, internationalization, localization]
+  date_created: 2021-04-15
+  date_added: 2022-06-09
+
+- title: Windmill
+  url: https://windmill.dev
+  repo: https://github.com/windmill-labs/windmill
+  site_src: https://github.com/windmill-labs/windmill/blob/-/frontend
+  description:
+    An OSS developer platform to build multi-step automations and internal apps from minimal
+    Python and Typescript scripts.
+  uses:
+    - TypeScript
+    - Tailwind
+    - cssnano
+    - Cypress
+    - PostCSS
+    - svelte-highlight
+    - svelte-markdown
+  tags: [automation, dev tools, python, scripting, self-hostable]
+  date_created: 2022-05-05
+  date_added: 2022-06-17
+
+- title: Threlte
+  url: https://threlte.xyz
+  repo: https://github.com/threlte/threlte
+  site_src: https://github.com/threlte/threlte/blob/-/apps/docs
+  description:
+    Threlte is a component library for Svelte to build and render three.js scenes declaratively
+    and state-driven in Svelte apps.
+  uses: [TypeScript, Three.js, Tailwind, PostCSS, Algolia, Iconify]
+  tags: [component library, data viz, docs, monorepo, interactive]
+  date_created: 2022-01-15
+  date_added: 2022-07-17
+
+- title: svelte-french-toast
+  url: https://svelte-french-toast.com
+  repo: https://github.com/kbrgl/svelte-french-toast
+  description: Svelte port of Timo Lins' react-hot-toast, a lightweight, customizable toast notification library.
+  uses: [TypeScript, Prism, Tailwind, PostCSS, PNPM]
+  tags: [toast, notifications, snackbar]
+  date_created: 2022-06-04
+  date_added: 2022-07-24
+
+- title: Hexapipes
+  url: https://hexapipes.vercel.app
+  repo: https://github.com/gereleth/hexapipes
+  description: Browser game where the goal is to correctly line up pipes placed on hexagonal puzzle pieces.
+  uses: [Vercel]
+  tags: [game]
+  date_created: 2022-06-25
+  date_added: 2022-07-28
+
+- title: Svelte Commerce
+  url: https://demo.litekart.in
+  repo: https://github.com/itswadesh/svelte-commerce
+  description:
+    Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores,
+    Lazy Loading, Loading Indicators, Carousel, Instant Search, Faceted Filters, Typescript, Open Source, MIT license. 1
+    command deploy to your own server, 1 click deploy to Netlify/Vercel.
+  uses: [Vercel, Tailwind, TypeScript, svelte-toasts, PostCSS, cssnano]
+  tags: [commerce, shopping, login, store]
+  date_created: 2020-04-27
+  date_added: 2022-08-23
+
+- title: Joy of Code
+  url: https://joyofcode.xyz
+  repo: https://github.com/mattcroat/joy-of-code
+  description: 🌸 Joy of Code is a digital garden growing curious minds.
+  uses:
+    - GitHub API
+    - Monaco
+    - Playwright
+    - Google Analytics
+    - Supabase
+    - Vercel
+    - PNPM
+    - Sass
+    - TypeScript
+    - remark
+    - rehype
+  tags: [blog, community, cms]
+  date_created: 2020-10-19
+  date_added: 2022-08-31
+
+- title: QWER
+  url: https://svelte-qwer.vercel.app
+  repo: https://github.com/kwchang0831/svelte-QWER
+  description: ✒︎ Simply Awesome Blog Starter built with SvelteKit and ❤
+  uses: [UnoCSS, TypeScript, MarkedJS, PNPM, Vercel]
+  tags: [blog, template]
+  date_created: 2022-06-28
+  date_added: 2022-09-04
+
+- title: StemRoller
+  url: https://stemroller.com
+  repo: https://github.com/stemrollerapp/stemroller
+  description: Isolate vocals, drums, bass, and other instrumental stems from any song
+  uses: [Electron, Tailwind, Lodash, PostCSS, ytdl-core]
+  tags: [desktop app, music, machine learning, deep learning]
+  date_created: 2022-07-10
+  date_added: 2022-09-07
+
+- title: Houses of World
+  url: https://housesof.world
+  description: A travel, photography and design project showcasing charismatic houses around the world.
+  uses:
+    - Typescript
+    - SCSS
+    - PostCSS
+    - Motion One
+    - OGL
+    - WebGL
+    - Directus
+    - Swell Commerce
+    - Vercel
+  tags:
+    - animations
+    - transitions
+    - photography
+    - commerce
+    - design
+    - typography
+    - graphic design
+  date_created: 2022-09-27
+  date_added: 2022-09-30
+
+- title: Skeleton
+  url: https://skeleton.dev
+  repo: https://github.com/Brain-Bones/skeleton
+  description: A fully featured web UI toolkit for Svelte + Tailwind. Supports SvelteKit, Vite, and Astro.
+  uses: [Vitest, PostCSS, highlight.js, Tailwind, Typescript, jsdom]
+  tags: [component library]
+  date_created: 2022-02-23
+  date_added: 2022-10-30
+
+- title: Svelte MultiSelect
+  url: https://janosh.github.io/svelte-multiselect
+  repo: https://github.com/janosh/svelte-multiselect
+  description: Keyboard-friendly, accessible and highly customizable multi-select component.
+  npm: https://npmjs.com/package/svelte-multiselect
+  uses:
+    - Vitest
+    - Playwright
+    - Typescript
+    - PNPM
+    - pre-commit
+    - rehype
+    - jsdom
+    - GitHub Pages
+    - mdsvexamples
+  tags: [forms, select component, interactive, NPM package]
+  date_created: 2021-05-07
+  date_added: 2022-10-30
+
+- title: Fireship
+  url: https://fireship.io
+  repo: https://github.com/fireship-io/fireship.io
+  description:
+    The Fireship PRO course platform frontend built with Svelte, Tailwind CSS, Hugo
+    (for static content management), Firebase for Auth and DB, Flamethrower for routing.
+  uses: [Tailwind, Hugo, Firebase, Flamethrower, Sass, PostCSS, Algolia]
+  tags: [education, tutorials, web dev]
+  date_created: 2019-01-07
+  date_added: 2022-11-19
+
+- title: Intl Explorer
+  url: https://intl-explorer.com
+  repo: https://github.com/jesperorb/intl-explorer
+  description: A tool for experimenting and trying out the ECMAScript Internationalization API.
+  uses:
+    [TypeScript, PNPM, Playwright, Vercel, svelte-highlight, Husky, commitlint]
+  tags: [education, tutorials, web dev, interactive, playground]
+  date_created: 2021-12-02
+  date_added: 2022-11-27
+
+- title: SvelteKit Embed
+  url: https://sveltekit-embed.vercel.app
+  repo: https://github.com/spences10/sveltekit-embed
+  description:
+    SvelteKit embed components for YouTube, Vimeo, Twitter, Spotify, SoundCloud, StackBlitz,
+    CodePen, AnchorFM, Simple Cast and more.
+  uses:
+    - TypeScript
+    - PNPM
+    - Vercel
+    - MDsveX
+    - Tailwind
+    - PostCSS
+    - Husky
+    - Playwright
+    - DaisyUI
+  tags: [component library]
+  date_created: 2021-07-17
+  date_added: 2022-12-09
+
+- title: SvelteKit static blog starter
+  url: https://sveltekit-static-starter.netlify.app
+  repo: https://github.com/josh-collinsworth/sveltekit-blog-starter
+  description:
+    A pre-configured SvelteKit static blog starter, with Sass, Markdown, MDSvex, Rehype
+    and background preloading.
+  uses: [Netlify, MDsveX, Sass, Husky]
+  tags: [blog starter, sass, markdown, mdsvex, page transitions, seo, rss]
+  date_created: 2021-11-02
+  date_added: 2023-01-11
+
+- title: svelte-put
+  url: https://svelte-put.vnphanquang.com
+  repo: https://github.com/vnphanquang/svelte-put
+  description: Useful svelte stuff to put in your projects.
+  uses: [Changesets, MDsveX, PostCSS, PNPM, Turbo]
+  tags: [preprocessor, actions, component library]
+  date_created: 2022-05-12
+  date_added: 2023-01-14
+
+- title: sveltekit-mdsvex-blog
+  url: https://sveltekit-mdsvex-blog.netlify.app
+  repo: https://github.com/mvasigh/sveltekit-mdsvex-blog
+  description: A minimalist blog template built with SvelteKit and MDsveX.
+  uses: [TypeScript, MDsveX, Rehype, Remark, PNPM, Vitest, Playwright]
+  tags: [blog, markdown, template, starter]
+  date_created: 2021-05-08
+  date_added: 2023-01-15
+
+- title: sveltekit-typescript-showcase
+  url: https://github.com/ivanhofer/sveltekit-typescript-showcase
+  repo: https://github.com/ivanhofer/sveltekit-typescript-showcase
+  description: This repository shows how Svelte and SvelteKit work together with TypeScript.
+  uses: [TypeScript]
+  tags: [showcase, tutorial, learning]
+  date_created: 2022-03-07
+  date_added: 2023-02-24
+
+- title: svelte-command-palette
+  url: https://svelte-command-palette.vercel.app
+  repo: https://github.com/rohitpotato/svelte-command-palette
+  npm: https://npmjs.com/package/svelte-command-palette
+  description: Dead simple command palette with fuzzy search.
+  uses: [TypeScript, Playwright, PostCSS, Tailwind, Release It, Vercel]
+  tags: [cmd-palette, NPM package]
+  date_created: 2022-06-17
+  date_added: 2023-02-27
+
+- title: svelte-legos
+  url: https://svelte-legos.singhalankur.com
+  repo: https://github.com/ankurrsinghal/svelte-legos
+  npm: https://npmjs.com/package/svelte-legos
+  description: A library of Svelte actions.
+  uses: [TypeScript, vitest, Tailwind, PostCSS, Prism]
+  tags: [component library, NPM package, actions]
+  date_created: 2023-02-21
+  date_added: 2023-03-06
+
+- title: Watch This
+  url: https://what-to-watch-roan.vercel.app
+  repo: https://github.com/StephDietz/watch-this
+  description:
+    Uses OpenAI GPT-3 API and streaming Vercel edge functions to generate cinema
+    recommendations based on user input.
+  uses: [TypeScript, Vercel, Tailwind]
+  tags: [content recommendation, edge functions, machine learning]
+  date_created: 2023-01-26
+  date_added: 2023-03-25
+
+- title: editable-website
+  url: https://editable.website
+  repo: https://github.com/michael/editable-website
+  description: A SvelteKit template for building CMS-free editable websites.
+  uses: [Tailwind, ProseMirror, AWS]
+  tags: [postgres, richtext, editable, cms-free, template]
+  date_created: 2023-04-04
+  date_added: 2023-05-07
+
+- title: Chat UI
+  url: https://huggingface.co/chat
+  repo: https://github.com/huggingface/chat-ui
+  description: Powers the HuggingChat app. Making the community's best AI chat models available to everyone.
+  uses: [Huggingface Inference, Huggingface Hub, Tailwind]
+  tags: [gpt, ai, nlp, chat, large language models]
+  date_created: 2023-04-04
+  date_added: 2023-05-11
+
+- title: Team Health Check
+  url: https://team-health-check-coral.vercel.app
+  repo: https://github.com/codehub-kirans/team-health-check
+  description: A tool to visualize historical agile scrum team performance based on behavior anchors.
+  uses: [PicoCSS, Pocketbase, Vercel]
+  tags: [agile team health, agile spotify, team health check]
+  date_created: 2023-05-05
+  date_added: 2023-05-14
+
+- title: SvelteLab
+  url: https://sveltelab.dev
+  repo: https://github.com/sveltelab/sveltelab
+  description: Supercharged REPL for Svelte (think StackBlitz specialized for Svelte)
+  uses:
+    - Playwright
+    - vitest
+    - Iconify
+    - Marked
+    - TypeScript
+    - PNPM
+    - Pocketbase
+    - Vercel
+    - Tailwind
+  tags: [repl, playground]
+  date_created: 2023-02-23
+  date_added: 2023-05-21
+
+- title: Significa.co
+  url: https://significa.co
+  repo: https://github.com/significa/significa.co
+  description: Product Design and Development agency website, built with Sveltekit.
+  uses:
+    - TypeScript
+    - Vercel
+    - Tailwind
+    - AWS
+    - Dynamodb
+    - Notion
+    - Storyblock
+    - Matter.js
+    - Plausible
+  tags: [company, agency]
+  date_created: 2023-05-13
+  date_added: 2023-05-22
+
+- title: shadcn-svelte
+  url: https://shadcn-svelte.com
+  site_src: https://github.com/huntabyte/shadcn-svelte/blob/-/apps/www
+  repo: https://github.com/huntabyte/shadcn-svelte
+  description: shadcn/ui, but for Svelte.
+  uses: [TypeScript, Vercel, Tailwind, PNPM, Changesets, vitest, Prism, Marked]
+  tags: [component library, community]
+  date_created: 2023-05-15
+  date_added: 2023-07-06

@@ -1,0 +1,56 @@
+:root {
+  --bg: #061e25;
+  --main-max-width: 1300px;
+
+  --zoo-github-corner-color: var(--bg);
+  --zoo-github-corner-bg: white;
+
+  --sms-bg: black;
+  --sms-max-width: 22em;
+  --sms-selected-bg: rgba(255, 255, 255, 0.15);
+  --sms-options-bg: #2e2935;
+  --sms-border: 1px solid #333;
+  --sms-li-active-bg: rgba(255, 255, 255, 0.15);
+  --sms-placeholder-color: gray;
+}
+body {
+  background: var(--bg);
+  padding: 5vw;
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+  margin: auto;
+  color: #eee;
+  overflow-x: hidden;
+}
+main {
+  max-width: var(--main-max-width);
+  margin: auto;
+  margin-bottom: 3em;
+  width: 100%;
+}
+input[type='search'] {
+  border: 1px solid #333;
+  outline: none;
+  padding: 3pt 1ex;
+  border-radius: 3pt;
+  color: inherit;
+  background: black;
+  font-size: 1em;
+}
+input[type='search']::placeholder {
+  color: gray;
+}
+a {
+  color: cornflowerblue;
+  text-decoration: none;
+}
+a:hover {
+  color: orange;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+:where(h1, h2, h3, h4, h5, h6) {
+  scroll-margin-top: 100px;
+}

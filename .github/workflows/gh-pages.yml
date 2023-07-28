@@ -1,0 +1,15 @@
+name: GitHub Pages
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: M2Remote/m2remote.github.io/.github/workflows/nodejs-gh-pages.yml@main
+    with:
+      working-directory: site
+      install-cmd: npm install -f

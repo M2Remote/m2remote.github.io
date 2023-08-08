@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="site/static/awesome-sveltekit-banner.svg" alt="Awesome SvelteKit" width="500">
+  <img src="site/static/magento2.svg" alt="Magento2 Repositories" >
 </h1>
 
 <h4 align="center">
@@ -14,7 +14,7 @@
 
 <br>
 
-Awesome examples of SvelteKit in the wild. Visit **[janosh.github.io/awesome-sveltekit](https://janosh.github.io/awesome-sveltekit)** to view this list with screenshots plus search and sort functionality (e.g. based on GH stars).
+Magento2 Open Source Project Collections. Visit **[janosh.github.io/awesome-sveltekit](https://janosh.github.io/awesome-sveltekit)** to view this list with screenshots plus search and sort functionality (e.g. based on GH stars).
 
 ## Sites
 

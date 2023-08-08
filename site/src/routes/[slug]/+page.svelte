@@ -6,7 +6,7 @@
 
   export let data
 
-  $: head_title = `${data.site.title} | Awesome SvelteKit`
+  $: head_title = `${data.site.title} | Magento2 open-source Projects`
   $: plain_description = data.site?.description?.replace(/<[^>]*>/g, ``)
 </script>
 
